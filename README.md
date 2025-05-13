@@ -60,7 +60,7 @@ Start the server
 npm start
 
 📬 API Endpoints
-Method--	Endpoint ---	Description
+
 GET	-- /api/todos ---	Get all todos
 GET --	/api/todos/:id ---	Get a todo by ID
 POST --	/api/todos ---	Create a new todo
