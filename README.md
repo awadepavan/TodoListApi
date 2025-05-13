@@ -61,8 +61,8 @@ npm start
 
 📬 API Endpoints
 
-GET	-- /api/todos ---	Get all todos
-GET --	/api/todos/:id ---	Get a todo by ID
-POST --	/api/todos ---	Create a new todo
-PUT--	/api/todos/:id ---	Update a todo
+GET	-- /api/todos ---	Get all todos||
+GET --	/api/todos/:id ---	Get a todo by ID||
+POST --	/api/todos ---	Create a new todo||
+PUT--	/api/todos/:id ---	Update a todo||
 DELETE---	/api/todos/:id ---	Delete a todo
